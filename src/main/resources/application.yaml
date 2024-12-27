@@ -1,0 +1,6 @@
+ktor:
+  application:
+    modules:
+      - emil.international.ApplicationKt.module
+  deployment:
+    port: 8080
